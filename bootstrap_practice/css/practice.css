@@ -17,59 +17,22 @@ header img{
  }
  .content img{
    margin:20px; 
-   max-width:25%;
+   max-width:90%;
    min-width: 50px; 
-   border-radius: 15px;
+   border-radius: 10px;
  }
- .words1{
-   font-size: 30px;
-   font-weight: bold;
-   position: absolute;
-   top:92%;
-   left: 25.5%;
-   color: white;
-}
-.words2{
-   font-size: 30px;
-   font-weight: bold;
-   position: absolute;
-   top:92%;
-   left: 47.8%;
-   color: white;
-}
-.words3{
-   font-size: 30px;
-   font-weight: bold;
-   position: absolute;
-   top:92%;
-   right: 21.7%;
-   color: white;
-}
-.words5{
-   font-size: 30px;
-   font-weight: bold;
-   position: absolute;
-   top: 155%;
-   left: 47.8%;
-   color: white;
-}      
+   
  .content2 img{
    margin:36px;
-   max-width: 68%;
+   max-width: 80%;
    border-radius: 15px;
  }
  .content3 img{
-   margin:36px 0 5% 17.5%;
-   max-width: 40%;
+   margin:36px 0 5% 30.3%;
+   max-width: 70%;
    border-radius: 15px;
  }
- .words4{
-   float: right;
-   margin: 10% 15% 0 0;
-   padding: 0;
-   max-width: 25%;
 
- }
  footer{
    background-color: grey;
    width: 100%;
